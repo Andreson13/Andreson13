@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Andreson13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Salut, je suis @Andreson
+- 👀 Je suis intéressé par le Développement
+- 🌱 J'apprends actuellement le Développement
+- 💞️ Je cherche à collaborer sur Bobsonic
+- 📫 Comment me joindre Andreson#7204
 
 <!---
 Andreson13/Andreson13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
