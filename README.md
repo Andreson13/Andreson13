@@ -1,8 +1,9 @@
 👋 Salut, je m'appelle @Andreson
-- 👀 Je suis intéressé par le NodeJS, plus précisément les modules Express et Electron, 
-  J'apprends le Java et le JavaScript, Je fais souvent des mods Minecraft mais uniquement 1.7.10 et 1.12.2
+-Je suis Développeur FULL STACK 
+- 👀 Je suis intéressé par le NodeJS, ReactJS et plus encore, 
+  Je fais souvent des mods Minecraft en 1.7.10 et 1.12.2
 - 🌱 J'apprends actuellement le Développement
-- 💞️ Je collabore avec Bobsonic
+- 💞️ Je collabore avec Azures04 et bien d'autres
 - 📫 Comment me joindre 
 
   Discord: Andreson#3875
